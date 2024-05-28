@@ -1,2 +1,2 @@
 # gitTutorial
-<h1>All About Working with Version Control.</h1>
+<h2>All About Working with Version Control.</h2>
