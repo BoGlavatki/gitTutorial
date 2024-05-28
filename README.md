@@ -5,7 +5,17 @@
 wohin die Zeiger der Branches zeigen. Diese Option wird --decorate genannt.
 
 ## git branch <name of new branch>
+````
+git branch <name of new branch>
+````
+
 
 ## git checkout <name of branch>
+````
+git checkout <name of branch>
+````
 
 ## git checkout branch <name of new branch>
+````
+git checkout branch <name of new branch>
+````
